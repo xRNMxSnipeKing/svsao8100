@@ -1,0 +1,43 @@
+package com.microsoft.xbox.service.model.edsv2;
+
+public class EDSV2MediaType {
+    public static final int MEDIATYPE_ALBUM = 1006;
+    public static final int MEDIATYPE_APPACTIVITY = 67;
+    public static final int MEDIATYPE_AVATARITEM = 47;
+    public static final int MEDIATYPE_GAMEACTIVITY = 66;
+    public static final int MEDIATYPE_GAMELAYER = 65;
+    public static final int MEDIATYPE_METROGAME = 62;
+    public static final int MEDIATYPE_METROGAMECONSUMABLE = 64;
+    public static final int MEDIATYPE_METROGAMECONTENT = 63;
+    public static final int MEDIATYPE_MOBILEGAME = 58;
+    public static final int MEDIATYPE_MOVIE = 1000;
+    public static final int MEDIATYPE_MUSICARTIST = 1009;
+    public static final int MEDIATYPE_MUSICVIDEO = 1008;
+    public static final int MEDIATYPE_TRACK = 1007;
+    public static final int MEDIATYPE_TVEPISODE = 1003;
+    public static final int MEDIATYPE_TVSEASON = 1005;
+    public static final int MEDIATYPE_TVSERIES = 1004;
+    public static final int MEDIATYPE_TVSHOW = 1002;
+    public static final int MEDIATYPE_UNKNOWN = 0;
+    public static final int MEDIATYPE_VIDEOACTIVITY = 901;
+    public static final int MEDIATYPE_WEBGAME = 57;
+    public static final int MEDIATYPE_WEBVIDEO = 1010;
+    public static final int MEDIATYPE_WEBVIDEOCOLLECTION = 1011;
+    public static final int MEDIATYPE_XBOX360GAME = 1;
+    public static final int MEDIATYPE_XBOX360GAMECONTENT = 18;
+    public static final int MEDIATYPE_XBOX360GAMEDEMO = 19;
+    public static final int MEDIATYPE_XBOXAPP = 61;
+    public static final int MEDIATYPE_XBOXARCADEGAME = 23;
+    public static final int MEDIATYPE_XBOXBUNDLE = 36;
+    public static final int MEDIATYPE_XBOXGAMECONSUMABLE = 24;
+    public static final int MEDIATYPE_XBOXGAMERTILE = 22;
+    public static final int MEDIATYPE_XBOXGAMETRAILER = 34;
+    public static final int MEDIATYPE_XBOXGAMETRIAL = 5;
+    public static final int MEDIATYPE_XBOXGAMEVIDEO = 30;
+    public static final int MEDIATYPE_XBOXMARKETPLACE = 46;
+    public static final int MEDIATYPE_XBOXMOBILECONSUMABLE = 60;
+    public static final int MEDIATYPE_XBOXMOBILEPDLC = 59;
+    public static final int MEDIATYPE_XBOXORIGINALGAME = 21;
+    public static final int MEDIATYPE_XBOXTHEME = 20;
+    public static final int MEDIATYPE_XBOXXNACOMMUNITYGAME = 37;
+}
